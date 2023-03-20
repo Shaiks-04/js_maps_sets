@@ -1,0 +1,27 @@
+body{
+
+    background: rgb(220, 255, 137);
+
+}
+
+h2{
+
+    color: rgb(0, 47, 255);
+
+}
+
+li{
+
+    text-decoration: underline;
+
+    font-size: larger;
+
+    color: crimson;
+
+}
+
+pre{
+
+    font-weight: bolder;
+
+}
